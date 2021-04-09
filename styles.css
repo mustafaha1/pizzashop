@@ -1,54 +1,65 @@
+
+
+
 body{
-    background-image: url("imges/20210330_123729133_iOS.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(162, 158, 177);
     text-decoration: none;
-    
 }
-
-.navbar{
-   /* position: absolute; */
-   width: 100%;
-}
-
-.color{
-    max-height: 20px;
-    
-    
-    
-    
-    
-;
-}
-.nav-i{
-    padding-left: 500px;
-    
-   
-    
-
-    
+.posi{
+    margin-top: 40px;
+    /* margin-left: 450px; */
    
 }
 
-.button{
-    padding: 27px;
-    padding-left: 150px;
-    
-    
+
+
+nav{
+    margin-top: 40px;
 }
 
-.card-deck{
-    padding-top: 200px;
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+    list-style-type: none;
+    
+    
 }
+.login{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-top: 100px;
+    
+    
+}
+ul{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+
+/* .nav-item:hover{
+   
+} */
+
+
+
+
+.rang:hover{
+    text-decoration: none;
+    background-color: brown;
+}
+
+
+
+.setting{
+margin-top: 500px;
+}
+
 .card{
-    margin-top: 10px;
+    margin-top: 2rem;
 }
-
-
-
-
-
-    
-
-
-
